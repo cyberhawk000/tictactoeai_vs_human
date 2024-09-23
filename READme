@@ -1,7 +1,7 @@
 # Tic-Tac-Toe with Minimax AI
 
 This project is a command-line Tic-Tac-Toe game where a human can play against an AI powered by the Minimax algorithm. The AI is designed to play optimally, so it will never lose!
-
+INstall pygame
 ## How to Play
 
 1. Clone the repository or download the source code:
